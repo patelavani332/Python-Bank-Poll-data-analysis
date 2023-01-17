@@ -1,6 +1,7 @@
-Python Coding
 
-## Setup
+## Python Coding 
+
+Setup
 
 * Create a new repository for this project called `python-challenge`. **Do not add this homework assignment to an existing repository**.
 
